@@ -1,2 +1,0 @@
-developcommit
-feature2commit
